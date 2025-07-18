@@ -26,7 +26,7 @@ I'm a passionate **MERN Stack Developer** focused on clean, scalable web apps us
 `JavaScript (ES6+)` `Node.js` `Express.js` `REST APIs`
 
 **🗄 Databases**  
-`MongoDB` `Redis (Basic knowledge)`
+`MongoDB` `My SQL`
 
 **🧰 Tools**  
 `Git` `GitHub` `Postman` `VS Code` `Cloud Deployment (Learning)`
@@ -42,12 +42,11 @@ I'm a passionate **MERN Stack Developer** focused on clean, scalable web apps us
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
 ✉️ **Email:** [deveppriya0406@gmail.com](mailto:deveppriya0406@gmail.com)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-<!-- Optional: Add your cartoon avatar -->
+
 <!-- <img src="https://github.com/your-github-username/your-github-username/blob/main/dev_avatar_under_1mb.jpg" width="200" style="border-radius: 50%;"> -->
